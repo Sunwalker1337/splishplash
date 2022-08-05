@@ -80,6 +80,7 @@ section:not(:last-child){
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.35;
+    white-space: nowrap;
 }
 
 .nav-list__item:hover,
@@ -105,7 +106,8 @@ section:not(:last-child){
     line-height: 1.4;
     color: #ffffff;
     cursor:pointer;
-    width: auto;
+    
+    white-space: nowrap;
     
 }
 
