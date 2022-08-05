@@ -1,10 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap');
 
-@import url('http://fonts.cdnfonts.com/css/proxima-nova-2?styles=44818,44817,44820,44812');
 
 
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
 
 
 
@@ -78,7 +78,7 @@ section:not(:last-child){
 }
 .nav-list__item{
     font-size: 14px;
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.35;
 }
 
@@ -98,13 +98,14 @@ section:not(:last-child){
     background-color: #018ABE;
     border-color: transparent;
     padding: 9px 15px;
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
     line-height: 1.4;
     color: #ffffff;
     cursor:pointer;
+    width: auto;
     
 }
 
@@ -367,7 +368,7 @@ section:not(:last-child){
 }
 
 .about-header{
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 24px;
     line-height: 1.4;
@@ -387,7 +388,7 @@ section:not(:last-child){
     width: 466px;
     
 
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     font-size: 16px;
     line-height: 1.4;
@@ -421,7 +422,7 @@ section:not(:last-child){
     display: flex;
     align-items: center;
 
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
     font-weight: 400;
     font-size: 18px;
@@ -475,7 +476,7 @@ section:not(:last-child){
 .rights{
     
 
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     
     font-weight: 400;
     font-size: 14px;
@@ -483,7 +484,7 @@ section:not(:last-child){
 }
 .made{
     margin-left: auto;
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     
     font-weight: 700;
     font-size: 14px;
@@ -547,7 +548,7 @@ section:not(:last-child){
     margin-bottom: 30px;
 }
 .pool-card-list-item{
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -592,7 +593,7 @@ section:not(:last-child){
     cursor: pointer;
     padding: 9px 15px 9px 15px;
 
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
     font-weight: 600;
     font-size: 13px;
@@ -629,7 +630,7 @@ section:not(:last-child){
 }
 .slider-header{
     margin-bottom: 20px;
-    font-family: 'Proxima Nova';
+    font-family: 'Montserrat';
 
     font-weight: 700;
     font-size: 20px;
@@ -637,7 +638,7 @@ section:not(:last-child){
 }
 
 .slider-text{
-    font-family: 'Proxima Nova',sans-serif;
+    font-family: 'Montserrat',sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 14px;
