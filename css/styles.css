@@ -622,7 +622,7 @@ section:not(:last-child){
 
 .slider-card{
     display: none;
-    width: 636px;
+    
     padding: 98px 60px 65px 60px;
     background-color: #018ABE;
     border-radius: 10px;
@@ -633,17 +633,21 @@ section:not(:last-child){
 
 .dot {
     cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
+    height: 16px;
+    width: 16px;
+    
+    background-color: #737e83;
+    border-radius: 3px;
     display: inline-block;
     transition: background-color 0.6s ease;
 }
 
+.dot:not(:last-child){
+    margin-right: 20px;
+}
+
 .active, .dot:hover, .dot:focus {
-    background-color: #717171;
+    background-color: #ffffff;
 }
 
 .fade {
