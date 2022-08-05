@@ -629,6 +629,19 @@ section:not(:last-child){
 }
 .slider-header{
     margin-bottom: 20px;
+    font-family: 'Proxima Nova';
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.slider-text{
+    font-family: 'Proxima Nova',sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.4;
 }
 
 .dot {
